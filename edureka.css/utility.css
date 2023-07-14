@@ -1,0 +1,421 @@
+.heading p{
+    color: white;
+    text-align: center;
+    justify-content: center;
+    padding-top: 5px;
+}
+.sp-1{
+   background-color: rgb(204, 133, 2);
+}
+.sp{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.right{
+    width: 50%;
+}
+.right span{
+    padding-left: 30px;
+    font-size: 1.5rem;
+    padding-right: 10px;
+    color: white;
+    font-weight: bolder;
+}
+.search{
+    width: 520px;
+    height: 31px;
+    margin-top: 12px;
+    margin-bottom: 10px;
+}
+.right img{
+    height: 31.5px;
+    border-radius: 2px;
+     width:62px;
+     position: absolute;
+     top: 42px;
+     
+ }
+ .left li{
+    list-style: none;
+    margin-left: 45px;
+    cursor: pointer;
+ }
+ .left ul {
+    display: flex;
+    padding-top: 17px;
+}
+.style{
+    padding-left: 90px;
+    padding-top: 10px;
+   font-size: 1.5rem;
+}
+.btn-1{
+    margin-left: 102px;
+    background-color: transparent;
+    color: white;
+    border: none;
+    margin-top: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+.btn-2{
+    margin-left: 12px;
+    background-color: rgb(75, 75, 216);
+    color: white;
+    border: none;
+    margin-top:10px;
+    padding: 7px 12px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+.navbar{
+    color: black;
+}
+.navbar img{
+    width: 25px;
+    height: 15px;
+    margin-top: 16px;
+    margin-left: 65px;
+    cursor: pointer;
+}
+.navbar-ul{
+    display: flex;
+}
+.navbar li{
+    list-style: none;
+    margin-left: 60px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+.navbar p{
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 15px;
+    margin-top: 3px
+}
+.navbar p span{
+    font-weight: bolder;
+    font-size: 1.3rem;
+    display: block;
+    cursor: pointer;
+}
+.img-container img{
+    height: 350px;
+    width: 100%;
+}
+.A-container{
+    display: flex;
+    box-shadow: 1px 2px 6px grey;
+    padding: 18px 17px;
+    margin-left: 170px;
+    background-color: white;
+    color: black;
+}
+.B-container{
+    display: flex;
+    box-shadow: 1px 2px 6px grey;
+    margin-left: 25px;
+    padding: 18px 17px;
+    background-color: white;
+    color: black;
+}
+.C-container{
+    display: flex;
+    box-shadow: 1px 2px 6px grey;
+    padding: 18px 17px;
+    margin-left: 25px;
+    background-color: white;
+    color: black;
+}
+.left-container{
+    width: 50%;
+
+}
+.left-container p{
+    padding-right: 5px;
+}
+.left-container p span{
+    font-weight: bold;
+}
+.right-container{
+    width: 50%;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+}
+.right-container a{
+padding-left: 10px;
+ text-decoration: none;
+ font-weight: bolder;
+ color: rgb(46, 46, 170);
+}
+.heading-3{
+    margin-top: 60px ;
+    margin-left:166px ;
+    margin-bottom: 25px;
+    font-family: 'Lato', sans-serif;
+}
+.navbar-ul-2{
+    display: flex;
+    color: black;
+    margin-left: 145px;
+    
+}
+.navbar-ul-2 li{
+    list-style: none;
+    margin-left: 45px;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+}
+.navbar-ul-2 li:hover{
+    text-decoration: underline;
+    font-weight: bolder;
+}
+.navbar-2 img{
+    width: 25px;
+    height: 15px;
+    margin-top: 0px;
+    margin-left: 150px;
+    cursor: pointer;
+}
+.img-3 img{
+    height: 175px;
+    width: 315px;
+    margin-left: 25px;
+    border-radius: 110px;
+}
+.contant p{
+    text-align:center;
+    justify-content: center;
+    margin-top: 63px;
+}
+.btn-3{
+    background-color: rgb(67, 67, 238);
+    color: white;
+    padding: 10px 38px;
+    margin-top: 35px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    margin-left: 42%;
+    border: none;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.button-3 p{
+margin-top: 8px;
+justify-content: center;
+text-align: center;
+font-size: 1.3rem;
+font-family: 'Roboto', sans-serif;
+font-style: italic;
+font-weight: bold;
+
+}
+.career-heading-h{
+    margin-top: 40px;
+    margin-left: 25px;
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 12px;
+    font-size: 1.4rem;
+}
+.career-heading-1{
+ background-image: radial-gradient(circle at 29% 55%, hsla(329,0%,99%,0.05) 0%, hsla(329,0%,99%,0.05) 4%,transparent 4%, transparent 44%,transparent 44%, transparent 100%),radial-gradient(circle at 85% 89%, hsla(329,0%,99%,0.05) 0%, hsla(329,0%,99%,0.05) 51%,transparent 51%, transparent 52%,transparent 52%, transparent 100%),radial-gradient(circle at 6% 90%, hsla(329,0%,99%,0.05) 0%, hsla(329,0%,99%,0.05) 53%,transparent 53%, transparent 64%,transparent 64%, transparent 100%),radial-gradient(circle at 35% 75%, hsla(329,0%,99%,0.05) 0%, hsla(329,0%,99%,0.05) 6%,transparent 6%, transparent 98%,transparent 98%, transparent 100%),radial-gradient(circle at 56% 75%, hsla(329,0%,99%,0.05) 0%, hsla(329,0%,99%,0.05) 16%,transparent 16%, transparent 23%,transparent 23%, transparent 100%),radial-gradient(circle at 42% 0%, hsla(329,0%,99%,0.05) 0%, hsla(329,0%,99%,0.05) 3%,transparent 3%, transparent 26%,transparent 26%, transparent 100%),radial-gradient(circle at 29% 28%, hsla(329,0%,99%,0.05) 0%, hsla(329,0%,99%,0.05) 51%,transparent 51%, transparent 75%,transparent 75%, transparent 100%),radial-gradient(circle at 77% 21%, hsla(329,0%,99%,0.05) 0%, hsla(329,0%,99%,0.05) 35%,transparent 35%, transparent 55%,transparent 55%, transparent 100%),radial-gradient(circle at 65% 91%, hsla(329,0%,99%,0.05) 0%, hsla(329,0%,99%,0.05) 46%,transparent 46%, transparent 76%,transparent 76%, transparent 100%),linear-gradient(45deg, rgb(83, 91, 235),rgb(76, 11, 174));
+
+ color: white;
+ padding: 17px 15px;
+}
+.career-heading-2{
+    background-image: radial-gradient(circle at 82% 63%, rgba(183, 183, 183,0.09) 0%, rgba(183, 183, 183,0.09) 84%,transparent 84%, transparent 100%),radial-gradient(circle at 88% 98%, rgba(232, 232, 232,0.07) 0%, rgba(232, 232, 232,0.07) 15%,transparent 15%, transparent 100%),radial-gradient(circle at 77% 83%, rgba(252, 252, 252,0.05) 0%, rgba(252, 252, 252,0.05) 5%,transparent 5%, transparent 100%),radial-gradient(circle at 64% 0%, rgba(140, 140, 140,0.05) 0%, rgba(140, 140, 140,0.05) 54%,transparent 54%, transparent 100%),radial-gradient(circle at 57% 86%, rgba(241, 241, 241,0.07) 0%, rgba(241, 241, 241,0.07) 80%,transparent 80%, transparent 100%),radial-gradient(circle at 17% 93%, rgba(68, 68, 68,0.05) 0%, rgba(68, 68, 68,0.05) 82%,transparent 82%, transparent 100%),radial-gradient(circle at 85% 70%, rgba(10, 10, 10,0.02) 0%, rgba(10, 10, 10,0.02) 13%,transparent 13%, transparent 100%),linear-gradient(90deg, rgb(48, 62, 175),rgb(254, 18, 105));
+    color: white;
+    padding: 17px 15px;
+}
+.career-heading-3{
+    background-image: radial-gradient(circle at 46% 40%, rgba(228, 228, 228,0.06) 0%, rgba(228, 228, 228,0.06) 13%,transparent 13%, transparent 100%),radial-gradient(circle at 11% 41%, rgba(198, 198, 198,0.06) 0%, rgba(198, 198, 198,0.06) 19%,transparent 19%, transparent 100%),radial-gradient(circle at 52% 23%, rgba(14, 14, 14,0.06) 0%, rgba(14, 14, 14,0.06) 69%,transparent 69%, transparent 100%),radial-gradient(circle at 13% 85%, rgba(148, 148, 148,0.06) 0%, rgba(148, 148, 148,0.06) 44%,transparent 44%, transparent 100%),radial-gradient(circle at 57% 74%, rgba(232, 232, 232,0.06) 0%, rgba(232, 232, 232,0.06) 21%,transparent 21%, transparent 100%),radial-gradient(circle at 59% 54%, rgba(39, 39, 39,0.06) 0%, rgba(39, 39, 39,0.06) 49%,transparent 49%, transparent 100%),radial-gradient(circle at 98% 38%, rgba(157, 157, 157,0.06) 0%, rgba(157, 157, 157,0.06) 24%,transparent 24%, transparent 100%),radial-gradient(circle at 8% 6%, rgba(60, 60, 60,0.06) 0%, rgba(60, 60, 60,0.06) 12%,transparent 12%, transparent 100%),linear-gradient(90deg, rgb(148, 220, 10),rgb(18, 123, 10));
+    color: white;
+    padding: 17px 15px;
+
+}
+.career-contant{
+    padding: 20px 15px;
+
+}
+.row-1{
+    display: flex;
+    flex-direction: column;
+    margin-left: 25px;
+    width: 33%;
+    box-shadow: 3px 2px 6px grey;
+}
+.row-2{
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    width: 33%;
+    box-shadow: 3px 2px 6px grey;
+}
+.row-3{
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    margin-right: 25px;
+    width: 33%;
+    box-shadow: 3px 2px 6px grey;
+}
+.enroll p{
+    color: white;
+    justify-content: center;
+    text-align: center;
+    padding-top: 25px;
+    font-size: 1.2rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+.enroll p button{
+    margin-left: 31px;
+    padding: 11px 60px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+}
+.discover-heading-h{
+    margin-top: 40px;
+    margin-left: 105px;
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 12px;
+    font-size: 1.4rem;
+}
+.top-img img{
+    height: 70px;
+    width: 80px;
+}
+.top{
+    padding-top: 30px;
+    height: 150px;
+    width: 175px;
+    box-shadow: 0px 1px 23px -2px grey;
+    margin-left: 75px;
+    justify-content: center;
+    text-align: center;
+    cursor: pointer;
+    
+}
+.top-img-1 img{
+    height: 56px;
+    width: 48px;
+    padding-top: 12px;
+}
+.top-p p{
+    padding-top: 25px;
+}
+.business h1{
+    margin-left: 165px;
+    padding-top: 25px;
+    font-size: 2.5rem;
+}
+.business span{
+    font-size: 1.2rem;
+}
+.business h2{
+    margin-left: 165px;
+    margin-top: 20px;
+    font-size: 1.2rem;
+}
+
+.business p{
+    margin-left: 165px;
+    font-size: 0.8rem;
+    font-family: 'Poppins', sans-serif;
+   
+}
+.business-btn{
+    margin: 9px 635px;
+    padding: 9px 49px;
+    font-size: 1.2rem;
+    color: rgb(106, 106, 226);
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.para{
+    width: 120px;
+    padding-left: 208px;
+    font-family: 'Poppins', sans-serif;
+}
+.img-clients-1{
+    height: 67px;
+    width: 112px;
+}
+.img-clients-2{
+    margin-left: 202px;
+    height: 65px;
+    width: 117px;
+}
+.img-clients-3{
+    height: 67px;
+    width: 71px;
+    margin-left: 20px;
+}
+.img-clients-4{
+    margin-left: 202px;
+    height: 65px;
+    width: 100px;
+}
+.img-clients-5{
+    height: 67px;
+    width: 180px;
+    margin-left: 20px;
+}
+.para-2{
+    font-size: 3.4rem;
+    color: blue;
+    padding-left: 75px;
+    padding-top: 12px;
+
+}
+.first{
+    margin-top: 18px;
+    margin-left: 75px;
+}
+.first h3{
+    padding-bottom: 20px;
+}
+.first p{
+    padding-top: 18px;
+}
+.second-2{
+    margin-top: 18px;
+    margin-left: 75px;
+}
+.second-2 h3{
+    padding-bottom: 20px;
+}
+.second-2 p{
+    padding-top: 18px;
+}
+.third{
+    margin-top: 18px;
+    margin-left: 75px;
+}
+.third h3{
+    padding-bottom: 20px;
+}
+.third p{
+    padding-top: 18px;
+}
+.forth{
+    margin-top: 18px;
+    margin-left: 75px;
+}
+.forth h3{
+    padding-bottom: 20px;
+}
+.forth p{
+    padding-top: 18px;
+}
+.quary-right img{
+    height: 25px;
+    width: 25px;
+}
